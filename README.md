@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🌊 About Yunamaki
+High school student.  
+Javascript developer.
 
-<!--
-**yunamaki3/yunamaki3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏫 Schools
+Showa-Gakuin Shuei Junior High School (2019-2021)
+Showa-Gakuin Shuei High School (2022-Now)
 
-Here are some ideas to get you started:
+### 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=js,html,css,nodejs,express,rails,go,sass,supabase,cs,cpp,dotnet,aws,git,github,wordpress,figma" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Status
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunamaki3&layout=compact&show_icons=true" />

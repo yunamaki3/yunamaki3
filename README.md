@@ -3,7 +3,7 @@ High school student.
 Javascript developer.
 
 ### 🏫 Schools
-Showa-Gakuin Shuei Junior High School (2019-2021)
+Showa-Gakuin Shuei Junior High School (2019-2021)  
 Showa-Gakuin Shuei High School (2022-Now)
 
 ### 🌱 Skills

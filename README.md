@@ -4,7 +4,8 @@ Javascript developer.
 
 ### 🏫 Schools
 Showa-Gakuin Shuei Junior High School (2019-2021)  
-Showa-Gakuin Shuei High School (2022-Now)
+Showa-Gakuin Shuei High School (2022-2025)
+My university admission is still undecided.
 
 ### 🌱 Programming Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,nodejs,express,react,nextjs,sass,cs,cpp,dotnet,aws,git,github,vscode,webstorm" />

@@ -1,11 +1,13 @@
 ## 🌊 About Yunamaki
-High school student.  
+University student.  
 Javascript developer.
 
 ### 🏫 Schools
 Showa-Gakuin Shuei Junior High School (2019-2021)  
 Showa-Gakuin Shuei High School (2022-2024)  
 Tokyo Metropolitan University (2025-)
+> Faculty of Systems Design
+> Department of Computer Science
 
 ### 🌱 Programming Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,nodejs,express,react,nextjs,sass,cs,cpp,dotnet,aws,git,github,vscode,webstorm" />
